@@ -1,0 +1,16 @@
+Name of State / UT,Total Confirmed cases (Indian National),Total Confirmed cases ( Foreign National ),Cured/Discharged,Death,Date,Latitude,Longitude
+Andhra Pradesh,1,0,0,0,17-03-2020,15.9129,79.74
+Delhi,8,0,2,1,17-03-2020,28.7041,77.1025
+Haryana,1,14,0,0,17-03-2020,29.0588,76.0856
+Karnataka,11,0,0,1,17-03-2020,15.3173,75.7139
+Kerala,24,2,3,0,17-03-2020,10.8505,76.2711
+Maharashtra,36,3,0,1,17-03-2020,19.7515,75.7139
+Odisha,1,0,0,0,17-03-2020,20.9517,85.0985
+Punjab,1,0,0,0,17-03-2020,31.1471,75.3412
+Rajasthan,2,2,3,0,17-03-2020,27.0238,74.2179
+Tamil Nadu,1,0,0,0,17-03-2020,11.1271,78.6569
+Telengana,3,2,1,0,17-03-2020,18.1124,79.0193
+Union Territory of Jammu and Kashmir,3,0,0,0,17-03-2020,33.7782,76.5762
+Union Territory of Ladakh,6,0,0,0,17-03-2020,34.2996,78.2932
+Uttar Pradesh,14,1,5,0,17-03-2020,26.8467,80.9462
+Uttarakhand,1,0,0,0,17-03-2020,30.0668,79.0193
